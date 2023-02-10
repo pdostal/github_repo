@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
-echo "Have a lot of fun!"
+echo "Have a lot of fun today"
+
