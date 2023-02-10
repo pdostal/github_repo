@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-echo "Have fun!"
+echo "Have a lot of fun!"
